@@ -16,7 +16,7 @@ A MERN-based blog website made as a submission to the Web Tech course at my univ
 ### 1. Starting the frontend
 Navigate to the frontend folder and run the following command in the terminal
 
-npm run dev
+`npm run dev`
 
 ### 2. Starting the backend
 Navigate to the backend folder and run the following command in the terminal
