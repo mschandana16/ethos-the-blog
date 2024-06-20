@@ -23,3 +23,8 @@ Navigate to the backend folder and run the following command in the terminal
 
 `nodemon index.js`
 
+## Few screenshots
+
+<img width="960" alt="Screenshot 2023-11-16 205711" src="https://github.com/mschandana16/ethos-the-blog/assets/116996448/fc1c2c27-2041-46f4-bf40-f339b822a9f6">
+
+
